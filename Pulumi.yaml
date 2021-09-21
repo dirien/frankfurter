@@ -1,0 +1,3 @@
+name: frankfurter
+runtime: go
+description: A minimal Civo Go Pulumi program
